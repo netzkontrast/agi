@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/trpc-node/**/*": {
+      "maxDuration": 30
+    }
+  }
+}
